@@ -1,1 +1,1 @@
-# basic-elasticsearch
+# Learn Elastic Search Basic
